@@ -1,0 +1,10 @@
+<employees>
+	<employee>
+		id = «1» >
+			<firstName>Natalia</firstName>
+			<lastName>Mazyr</lastName>
+			<посада>https://jsonformatter.org/img/ Mazyr.jpg</photo>
+	</employee>
+	<employee>
+<тег1 атрибут1= «значение1» атрибут2= «значение2» > значение </тег1>
+<зарплата січень= "12000" лютий = "18000" > бухгалтер </зарплата>

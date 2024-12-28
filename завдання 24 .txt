@@ -1,0 +1,74 @@
+{
+  "Firstname" : "summer" ,
+  "mounths" : [
+  {
+        "name": "June",
+        "temperature" : 22,
+        "number of day" : 30
+      },
+      {
+        "name": "Jule",
+        "temperature" : 27,
+        "number of day" : 31
+        },
+        {
+        "name": "August",
+        "temperature" : 25,
+        "number of day" : 31
+        }
+      ],
+  "Firstname" : "autumn" ,
+  "mounths" : [
+  {
+        "name": "September",
+        "temperature" : 17,
+        "number of day" : 30
+      },
+      {
+        "name": "Octowber",
+        "temperature" : 12,
+        "number of day" : 31
+        },
+        {
+        "name": "November",
+        "temperature" : 8 ,
+        "number of day" : 30
+        }
+      ],
+  "Firstname" : "winter" ,
+  "mounths" : [
+  {
+        "name": "Jeniary" ,
+        "temperature" :-10,
+        "number of day" : 31
+      } ,
+      {
+        "name": "February" ,
+        "temperature" : -18 ,
+        "number of day" : 28
+        },
+        {
+        "name": "November",
+        "temperature" : 8 ,
+        "number of day" : 30
+        }
+      ],
+  "Firstname" : "Spring" ,
+  "mounths" : [
+  {
+        "name": "March" ,
+        "temperature" : 12 ,
+        "number of day" : 31
+      },
+      {
+        "name": "April" ,
+        "temperature" : 12,
+        "number of day" : 30
+        },
+        {
+        "name": "May" ,
+        "temperature" : 20 ,
+        "number of day" : 31
+        }
+      ]
+} 
